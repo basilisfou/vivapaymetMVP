@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+
+    </style>
+
+    <style name="AppTheme.Base" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="contentInsetStart">0dp</item>
+        <item name="colorPrimary">@color/ColorPrimary</item>
+        <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="Login_editTexts">
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:background">@drawable/log_in_corners</item>
+        <item name="android:textSize">@dimen/size_of_text</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:lines">1</item>
+        <item name="android:layout_marginTop">@dimen/space_between_buttons</item>
+        <item name="android:textColorHint">#ffffff</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:padding">@dimen/padding_edit_texts</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">@dimen/margin_edit_text_left_right</item>
+        <item name="android:layout_marginRight">@dimen/margin_edit_text_left_right</item>
+    </style>
+
+    <style name="Login_Buttons">
+        <item name="android:layout_height">@dimen/layout_height</item>
+        <item name="android:background">@drawable/log_in_buttons_corners</item>
+        <item name="android:textSize">@dimen/size_of_text</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:elevation">6dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginTop">@dimen/space_between_buttons</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- ******************************************************  Login - sing up - reset password in screens *************************************-->
+    <dimen name="space_between_buttons">9dp</dimen>
+    <dimen name="size_of_text">18sp</dimen>
+    <dimen name="margin_left_right">15dp</dimen>
+    <dimen name="layout_height">60dp</dimen>
+    <dimen name="layout_height_large">90dp</dimen>
+    <dimen name="margin_top_edit_text_from_logo">60dp</dimen>
+    <dimen name="padding_edit_texts">10dp</dimen>
+
+    <dimen name="logo_width">250dp</dimen>
+    <dimen name="logo_height">54dp</dimen>
+    <dimen name="margin_top_logo_login_activity">60dp</dimen>
+    <dimen name="margin_top_logo">120dp</dimen>
+
+    <!-- @+id/app_description Login Activity-->
+    <dimen name="margin_top_app_desc">36dp</dimen>
+    <dimen name="size_sp_app_desc">16sp</dimen>
+
+    <!-- Linear Layout "@+id/ll_log_in" Login Activity-->
+    <dimen name="margin_top_ll_log_in">160dp</dimen>
+    <dimen name="margin_left_right_ll_log_in">30dp</dimen>
+    <dimen name="margin_right_left_log_in_sign_up_button">3dp</dimen>
+    <dimen name="skip_for_now_size_text">16sp</dimen>
+
+
+    <!-- Login 2 -->
+    <dimen name="margin_edit_text_left_right">25dp</dimen>
+    <dimen name="reset_pass_text_size">17sp</dimen>
+    <dimen name="reset_pass_margin_bottom">25dp</dimen>
+
+    <!-- Reset password -->
+    <dimen name="should_text_size">15sp</dimen>
+    <dimen name="should_margin">20dp</dimen>
+
+    <!--sing up activity -->
+    <dimen name="create_your_account_text_size">17sp</dimen>
+    <dimen name="sign_up_margin_button">25sp</dimen>
+
+    <!-- ************************************************* Dialogs************************************* -->
+    <dimen name="margin_edit_text_dialogs">20dp</dimen>
+    <dimen name="padding_edit_text_dialogs">5dp</dimen>
+
+
+
+</resources>

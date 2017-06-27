@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ColorPrimary">#e5665d</color><!-- action bar -->
+    <color name="ColorPrimaryDark">#d0554b</color><!-- status bar-->
+
+    <!-- Activity Details -->
+    <color name = "description_bold">#717a86</color>
+    <color name = "description_normal">#7C7C7C</color>
+    <color name = "buy_button">#4baceb</color>
+
+    <color name="textColorPrimary">#717a86</color>
+
+    <color name="color_hint_change_pass">#c1c4c8</color>
+
+
+</resources>

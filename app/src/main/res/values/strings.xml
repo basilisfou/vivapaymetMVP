@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">VivaPayments</string>
+
+    <!-- toolbar -->
+    <string name="toolbar_activity_details">Details</string>
+
+    <!-- details -->
+    <string name="product_details_error_loading_images">Error Loading Image</string>
+    <string name="product_details_buy">Buy Now</string>
+    <string name="loading_progress_dialog">Loading</string>
+    <string name="toast_successful_purchase">%s bought successfully</string>
+    <string name="toast_not_successful_purchase">not successful purchase</string>
+
+    <!-- Product -->
+    <string-array name="product_images">
+        <item>https://gadgetflowcdn.com/wp-content/uploads/2017/06/Meeting-Owl-Robotic-Video-Conference-Camera-1.jpg</item>
+        <item>https://gadgetflowcdn.com/wp-content/uploads/2017/06/Meeting-Owl-Robotic-Video-Conference-Camera-2.jpg</item>
+        <item>https://gadgetflowcdn.com/wp-content/uploads/2017/06/Meeting-Owl-Robotic-Video-Conference-Camera-3.jpg</item>
+        <item>https://gadgetflowcdn.com/wp-content/uploads/2017/06/Meeting-Owl-Robotic-Video-Conference-Camera-4.jpg</item>
+    </string-array>
+
+    <string name="product_title">Meeting Owl Robotic Video Conference Camera</string>
+    <string name="description">Take your meetings up a notch with the Meeting Owl Robotic Video Conference Camera by Owl Labs. This device captures stunning 360-degree detail during your meetings. Simply place it in the center of the table and get talking. The Meeting Owl will pick up both video and audio of everyone in the room. With this, people can tune in from all over the world and feel like they’re right there. In fact, in addition to the 360-degree lens, the Meeting Owl also uses 8 omnidirectional beam-forming microphones. This covers every nook and cranny of the conference room. Compatible with all major online video conferencing tools, there’s no requirement for software downloads for an easy plug-and-play design. The built-in software, however, can even add in the remote attendees. The Meeting Owl incorporates their video feeds for a truly seamless meeting experience.</string>
+    <string name="buylink"><![CDATA[https://www.owllabs.com/meeting-owl?utm_source=TheGadgetFlow&utm_medium=TheGadgetFlow&utm_campaign=TheGadgetFlow&utm_content=TheGadgetFlow]]></string>
+    <string name="price">€714.39 EUR</string>
+
+    <!-- navigation drawer -->
+    <string name="list_title">TO-DO List</string>
+    <string name="statistics_title">Statistics</string>
+
+    <!-- Activity Log In 2 Start -->
+    <string name="login_in_screen_2_username">Username</string>
+    <string name="login_in_screen_2_pass">Password</string>
+    <string name="login_in_screen_2_reset">Reset My Password</string>
+
+    <!-- Activity Log In 2 End -->
+
+    <string name="dialog_title">Payment</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_pay">Pay</string>
+    <string name="give_date">Exp</string>
+    <string name="name_of_customer">name</string>
+    <string name="fill_in_all">fill in all the fields</string>
+
+
+</resources>
